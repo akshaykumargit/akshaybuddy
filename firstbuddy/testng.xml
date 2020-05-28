@@ -3,6 +3,7 @@
   <test name="Test">
     <classes>
       <class name="akshay.buddy.firstbuddy.testcase1"/>
+      <class name="akshay.buddy.firstbuddy.App"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
